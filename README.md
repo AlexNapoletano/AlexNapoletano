@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AlexNapoletano
-- 👀 I’m interested in Machine Learning, Deep Learning, IA.
+- 👀 I’m interested in Machine Learning, Deep Learning, IA & Networking.
 - 🌱 I’m currently studying Computer Engineering
 
 
